@@ -3,5 +3,4 @@
 I'm a recent graduate passionate about **data analytics, business intelligence, and turning complex information into actionable insights**.  
 I’m currently developing an end-to-end **Business Intelligence project** that includes ETL pipelines, data modeling, dashboarding, and automation — aiming to move into a BI / Data / Analytics role in a fast-paced tech environment.
 
-## 📫 How to reach me
-Feel free to connect or reach out through GitHub or LinkedIn!
+## 📫 Feel free to reach out to me through GitHub or LinkedIn!
