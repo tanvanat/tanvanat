@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**tanvanat/tanvanat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a recent graduate passionate about **data analytics, business intelligence, and turning complex information into actionable insights**.  
+I’m currently developing an end-to-end **Business Intelligence project** that includes ETL pipelines, data modeling, dashboarding, and automation — aiming to move into a BI / Data / Analytics role in a fast-paced tech environment.
 
-Here are some ideas to get you started:
+### 🔍 Interests
+- Business Intelligence & Data Analytics  
+- Data Engineering for BI  
+- Product & Customer Experience Insights  
+- Cloud Infrastructure & Automation  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Relevant Coursework
+- **Big Data Architecture and Engineering**  
+- **Database Systems**  
+- **Data Structures and Algorithms**
+
+### 🧪 Technical & Academic Projects
+- **Cooking Game (Python & OOP)**  
+- **Graphic Rendering & Animation Projects (code-generated graphics)**  
+- **Medical Note-Taking Web Application**  
+- **Figma UI/UX Design Prototypes**  
+- **Entity-Relationship (ER) Diagram & Database Schema Design**
+
+
+## 📫 How to reach me
+Feel free to connect or reach out through GitHub or LinkedIn!
